@@ -1,2 +1,4 @@
 
 Sa ovim cemo se malo igrati.
+
+Ovo je na grani branch-newsidr.
